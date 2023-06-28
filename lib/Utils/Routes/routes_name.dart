@@ -1,5 +1,5 @@
 class RouteName {
-  static const String loginScreen = 'login_screen';
+  static const String loginView = 'login_view';
 
-  static const String homeScreen = 'home_screen';
+  static const String homeView = 'home_view';
 }

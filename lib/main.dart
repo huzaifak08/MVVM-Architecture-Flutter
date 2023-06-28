@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
         useMaterial3: true,
       ),
       // home: const LoginScreen(),
-      initialRoute: RouteName.loginScreen,
+      initialRoute: RouteName.loginView,
       onGenerateRoute: Routes.generateRoute,
     );
   }
